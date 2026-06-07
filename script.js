@@ -9,8 +9,8 @@ const CONFIG = {
     nomeMusica: "Nossa Música Favorita 💕",
 
     // Nomes do Casal
-    nomeEle: " Reinaldinho",
-    nomeEla: "Ana ",
+    nomeEle: "Reinaldinho",
+    nomeEla: "Ana",
     
     // Data de início do relacionamento: Ano, Mês (Janeiro é 0, Junho é 5, Dezembro é 11), Dia, Hora, Minuto
     dataInicio: new Date(2025, 11, 19, 0, 0, 0), 
@@ -53,13 +53,13 @@ Te amo hoje, amanhã e por toda a eternidade.
     // Caminho das Fotos do Slider Inicial
     fotosSlider: [
         "imag/foto1.jpg", "imag/foto2.jpg", "imag/foto3.jpg", "imag/foto4.jpg", 
-        "imag/foto5.jpg", "imag/foto6.jpg", "imag/foto7.jpg", "imag/foto8.jpg", "imag/foto9.jpg", "imag/foto10.jpg"
+        "imag/foto5.jpg", "imag/foto6.jpg", "imag/foto7.jpg", "imag/foto8.jpg", "imag/foto9.jpg", "imag/foto10.jpg, "imag/foto11.jpg", "imag/foto12.jpg", "imag/foto13.jpg", "imag/foto14.jpg", "imag/foto15.jpg""
     ],
 
     // Caminho das Fotos da Galeria em Carrossel
     fotosGaleria: [
-        "imag/foto11.jpg", "imag/foto12.jpg", "imag/foto13.jpg", "imag/foto14.jpg", "imag/foto15.jpg",
-        "imag/foto16.jpg", "imag/foto17.jpg", "imag/foto18.jpg", "imag/foto19.jpg", "imag/foto20.jpg"
+        "imag/foto21.jpg", "imag/foto22.jpg", "imag/foto23.jpg", "imag/foto24.jpg", "imag/foto25.jpg",
+        "imag/foto16.jpg", "imag/foto17.jpg", "imag/foto18.jpg", "imag/foto19.jpg", "imag/foto20.jpg", "imag/foto26.jpg", "imag/foto22.jpg", "imag/foto23.jpg", "imag/foto24.jpg", "imag/foto25.jpg"
     ],
 
     // 📸 BANCO DE FOTOS PARA O JOGO DA MEMÓRIA
