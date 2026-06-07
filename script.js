@@ -59,7 +59,7 @@ Te amo hoje, amanhã e por toda a eternidade.
     // Caminho das Fotos da Galeria em Carrossel
     fotosGaleria: [
         "imag/foto21.jpg", "imag/foto22.jpg", "imag/foto23.jpg", "imag/foto24.jpg", "imag/foto25.jpg",
-        "imag/foto16.jpg", "imag/foto17.jpg", "imag/foto18.jpg", "imag/foto19.jpg", "imag/foto20.jpg", "imag/foto26.jpg", "imag/foto22.jpg", "imag/foto23.jpg", "imag/foto24.jpg", "imag/foto25.jpg"
+        "imag/foto16.jpg", "imag/foto17.jpg", "imag/foto18.jpg", "imag/foto19.jpg", "imag/foto20.jpg", "imag/foto26.jpg", "imag/foto27.jpg", "imag/foto28.jpg", "imag/foto29.jpg", "imag/foto30.jpg"
     ],
 
     // 📸 BANCO DE FOTOS PARA O JOGO DA MEMÓRIA
