@@ -9,8 +9,8 @@ const CONFIG = {
     nomeMusica: "Nossa Música Favorita 💕",
 
     // Nomes do Casal
-    nomeEle: "Reinaldinho",
-    nomeEla: "Ana",
+    nomeEle: " Reinaldinho",
+    nomeEla: "Ana ",
     
     // Data de início do relacionamento: Ano, Mês (Janeiro é 0, Junho é 5, Dezembro é 11), Dia, Hora, Minuto
     dataInicio: new Date(2025, 11, 19, 0, 0, 0), 
