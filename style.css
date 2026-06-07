@@ -174,7 +174,7 @@ body{
 
 /* MOLDURA E SLIDER DO IPHONE (HEADER) */
 .iphone-slider-section { width:100%; min-height:100vh; display:flex; justify-content:center; align-items:center; padding:40px 20px; background: linear-gradient(to bottom, #fff4f6, #ffe5ec); }
-.iphone-mockup { width:390px; height:740px; background:#000; border:12px solid #222; border-radius:45px; position:relative; overflow:hidden; box-shadow:0 30px 60px rgba(255, 77, 109, 0.2); }
+.iphone-mockup { width:410px; height:740px; background:#000; border:12px solid #222; border-radius:45px; position:relative; overflow:hidden; box-shadow:0 30px 60px rgba(255, 77, 109, 0.2); }
 .iphone-notch { width:150px; height:25px; background:#222; position:absolute; top:0; left:50%; transform:translateX(-50%); border-bottom-left-radius:15px; border-bottom-right-radius:15px; z-index:10; }
 .slideshow-container{ width:100%; height:100%; position:relative; }
 .slide{ display:none; width:100%; height:100%; position:absolute; }
