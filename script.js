@@ -20,7 +20,33 @@ const CONFIG = {
     
     // Texto da carta romântica
     textoCarta: `
-        <p>Maria, desde o momento em que você entrou na minha vida, tudo ganhou mais cor e mais sentido. Cada risada compartilhada, cada plano para o futuro e cada pequeno detalhe do dia a dia ao seu lado se transformaram nos meus momentos favoritos do mundo.</p>
+        <p>Durante dois anos, eu esperei por você.
+
+Foram dias de saudade, noites de oração e momentos em que meu coração insistia em acreditar que o amor verdadeiro ainda estava a caminho. Muitas vezes a distância parecia impossível, o tempo parecia cruel, e a esperança tentava se esconder dentro de mim. Mas algo no fundo da minha alma dizia que valeria a pena esperar.
+
+E valeu.
+
+Você chegou quando eu mais precisava, trazendo luz para os meus dias, paz para o meu coração e um amor que superou todos os sonhos que eu guardava em silêncio. Cada conversa, cada sorriso e cada gesto seu fizeram com que aqueles dois anos deixassem de ser uma espera e se transformassem em uma linda preparação para o nosso encontro.
+
+Então aconteceu o momento que eu imaginava tantas vezes.
+
+Com os olhos cheios de amor e as mãos tremendo de emoção, você segurou a minha mão e me fez a pergunta que mudou a minha vida para sempre. Naquele instante, o mundo parou. Meu coração acelerou, meus olhos se encheram de lágrimas e eu tive a certeza de que Deus havia escrito a nossa história muito antes de nós a conhecermos.
+
+Depois de dois anos esperando pelo amor da minha vida, você finalmente chegou... e pediu a minha mão.
+
+E entre todas as respostas possíveis, a única que existia dentro de mim era:
+
+SIM.
+
+Sim para os seus sonhos.
+Sim para os seus planos.
+Sim para compartilhar a vida ao seu lado.
+Sim para te amar todos os dias da minha existência.
+
+Porque a espera terminou da forma mais bonita que eu poderia imaginar: nos seus braços, no seu amor e na promessa de um para sempre.
+
+Te amo hoje, amanhã e por toda a eternidade.
+</p>
         <p>Este espaço é apenas um pedacinho de tudo o que eu sinto por você. Obrigado por ser minha companheira, minha melhor amiga e o amor da minha vida. Eu te amo hoje, amanhã e para sempre! 💕</p>
     `,
 
