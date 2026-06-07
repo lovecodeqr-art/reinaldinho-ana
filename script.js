@@ -47,7 +47,7 @@ Porque a espera terminou da forma mais bonita que eu poderia imaginar: nos seus 
 
 Te amo hoje, amanhã e por toda a eternidade.
 </p>
-        <p>Este espaço é apenas um pedacinho de tudo o que eu sinto por você. Obrigado por ser minha companheira, minha melhor amiga e o amor da minha vida. Eu te amo hoje, amanhã e para sempre! 💕</p>
+        <p>Este espaço é apenas um pedacinho de tudo o que eu sinto por você. Obrigado por ser meu companheiro, meu melhor amigo e o amor da minha vida. Eu te amo hoje, amanhã e para sempre! 💕</p>
     `,
 
     // Caminho das Fotos do Slider Inicial
